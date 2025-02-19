@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate **Android Developer** & **Telegram Bot Creator**  
+🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**
 🔹 Love coding in **Kotlin** & **PHP**  
 🔹 Always learning and exploring new technologies!  
 
