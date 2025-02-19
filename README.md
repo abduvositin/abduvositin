@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abduvosit!</h1>
 
-
----
-
 ## 🚀 About Me  
 🔹 Passionate **Android Developer** & **Telegram Bot Creator**  
 🔹 Love coding in **Kotlin** & **PHP**  
