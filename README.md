@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230095D5.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/Retrofit-#EA4335.svg?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
 
