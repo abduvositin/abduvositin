@@ -1,8 +1,7 @@
+<h1 align="start">🚀 About Me</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Account;Android+Developer+%7C+Telegram+Bot+Creator;Always+learning+new+things!" />
 </p>
-
-<h1 align="center">🚀 About Me</h1>
 
 🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  
 🔹 Love coding in **Kotlin**, **PHP**, & **Java**  
