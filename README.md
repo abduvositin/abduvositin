@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abduvosit!</h1>
 
 
----
+
 
 ## 🚀 About Me  
 🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**
