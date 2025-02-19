@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Connect with Me  
-<p align="center">
+<p align="start">
   <a href="https://t.me/abduvositin">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
