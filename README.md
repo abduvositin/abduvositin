@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me  
-🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**
+🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  
 🔹 Love coding in **Kotlin** & **PHP**  
 🔹 Always learning and exploring new technologies!  
 
