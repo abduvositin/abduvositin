@@ -1,24 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25&center=true&vCenter=true&width=800&lines=Welcome+to+my+Account;About+me;Android+Developer+%7C+Telegram+Bot+Creator;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Account;Android+Developer;+Telegram+Bot+Creator;Always+learning+new+things!" />
 </p>
 
-🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  
-🔹 Love coding in **Kotlin**, **PHP**, & **Java**  
+
+
+
+## 🚀 About Me  
+🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**
+🔹 Love coding in **Kotlin** & **PHP**  
 🔹 Always learning and exploring new technologies!  
 
 ---
 
 ## 🔥 Programming Languages  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
 </p>
 
 ---
 
 ## 🛠️ Tools & Technologies  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -31,7 +36,7 @@
 ---
 
 ## 📫 Connect with Me  
-<p align="center">
+<p align="start">
   <a href="https://t.me/abduvositin">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
