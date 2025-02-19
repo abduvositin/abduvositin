@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbduvositDevoloper&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbduvositDevoloper&theme=tokyonight" width="400">
-</p>
-
----
-
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://t.me/abduvositin">
