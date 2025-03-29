@@ -1,15 +1,45 @@
-# 💫 About Me:
-🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  <br>🔹 Love coding in **Kotlin** & **PHP**  <br>🔹 Always learning and exploring new technologies!  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25¢er=true&vCenter=true&width=500&lines=Welcome+to+my+Account;Android+Developer;+Telegram+Bot+Creator;Always+learning+new+things!" />
+</p>
 
+## 🚀 About Me  
+🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  
+🔹 Love coding in **Kotlin** & **PHP**  
+🔹 Always learning and exploring new technologies!  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abduvositin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abduvositin) 
+---
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abduvosit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abduvosit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abduvosit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🔥 Programming Languages  
+<p align="start">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tools & Technologies  
+<p align="start">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+---
+
+## 📊 My Stats  
+🔹 **10+ Android Apps** developed  
+🔹 **5+ Telegram Bots** created  
+🔹 **1000+ hours** of coding experience  
+
+---
+
+## 📈 Language Usage  
+<p align="start">
+  <img src="https://img.shields.io/badge/Kotlin-70%25-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-25%25-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Other-5%25-%23FF6C37?style=for-the-badge&logo=code&logoColor=white">
+</p>
