@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25¢er=true&vCenter=true&width=500&lines=Welcome+to+my+Account;Android+Developer;+Telegram+Bot+Creator;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22FF00&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+Account;Android+Developer;+Telegram+Bot+Creator;Always+learning+new+things!" />
 </p>
+
+
+
 
 ## 🚀 About Me  
 🔹 Creating Next-Gen **Android Apps** & **Telegram Bots**  
@@ -26,20 +29,4 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</p>
-
----
-
-## 📊 My Stats  
-🔹 **10+ Android Apps** developed  
-🔹 **5+ Telegram Bots** created  
-🔹 **1000+ hours** of coding experience  
-
----
-
-## 📈 Language Usage  
-<p align="start">
-  <img src="https://img.shields.io/badge/Kotlin-70%25-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-25%25-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Other-5%25-%23FF6C37?style=for-the-badge&logo=code&logoColor=white">
 </p>
