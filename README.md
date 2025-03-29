@@ -30,3 +30,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+
+## 📊 GitHub Stats  
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvositin&layout=compact&langs_count=6&theme=radical" />
+</p>
+
