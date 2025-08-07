@@ -5,22 +5,22 @@
 <h1 align="center">Hi, I'm Abduvosit 👋</h1>
 
 <p align="center">
-  Passionate Android & Telegram Bot Developer <br>
-  Kotlin & PHP Programmer • Technology Explorer
+  🚀 Passionate Android & Telegram Bot Developer <br>
+  💻 Kotlin & PHP Programmer • Technology Explorer
 </p>
 
-
+---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abduvositin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvositin&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=abduvositin&theme=tokyonight&hide_border=true&border_radius=5" />
-</p>
+</div>
 
 ---
 
@@ -30,10 +30,10 @@
   <a href="https://t.me/abduvositin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:abduvosit.dev@gmail.com">
+  <a href="mailto:abduvosit.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/abduvositin">
+  <a href="https://github.com/abduvositin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  <b>✨ Let’s build the future, one line of code at a time! ✨</b>
+  <strong>✨ Let’s build the future, one line of code at a time! ✨</strong>
 </p>
