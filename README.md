@@ -4,17 +4,17 @@
 
 ---
 
-### 👋 Assalomu alaykum, men Abduvosit
+### 👋 Hello there, I'm Abduvosit
 
-🎯 Android ilovalar va Telegram botlar yaratish bilan shug‘ullanaman  
-💻 Kotlin & PHP dasturlash tillarida ishlayman  
-🚀 Har doim yangi texnologiyalarni o‘rganishga intilaman  
+🎯 Passionate about building Android apps and Telegram bots  
+💻 Coding mostly in Kotlin & PHP  
+🚀 Always eager to learn and explore new technologies  
 
 ---
 
-### 🧠 Mening texnologiyalarim
+### 🧠 My Tech Stack
 
-#### 🛠️ Platformalar va asboblar
+#### 🛠️ Platforms & Tools
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-#### 💻 Dasturlash tillari
+#### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-#### 🗃️ Versiya nazorati va ma'lumotlar bazasi
+#### 🗃️ Version Control & Databases
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub statistikasi
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduvositin&layout=compact&theme=tokyonight" alt="Top Languages">
@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <b>✨ Birgalikda rivojlanamiz, o‘rganamiz va quramiz! ✨</b>
+  <b>✨ Let's build, learn, and grow together! ✨</b>
 </p>
