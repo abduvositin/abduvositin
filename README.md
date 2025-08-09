@@ -9,8 +9,6 @@
   💻 Kotlin & PHP Programmer • Technology Explorer
 </p>
 
----
-
 <p align="center">
   <strong>✨ Let’s build the future, one line of code at a time! ✨</strong>
 </p>
